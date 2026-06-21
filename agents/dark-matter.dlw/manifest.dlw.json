@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dark Matter",
+  "universe": "GAL · Dark Matter (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦Dark Matter:GAL:7702f3⟧",
+  "carbon": "dark-matter.carbon.tiff (TIFF)",
+  "silicon": "dark-matter.silicon.png (PNG)",
+  "seal_sha256": "a473afac7b0572292d85c795194b23325a44aeb23f5c87e023ada0b1b620aa25",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

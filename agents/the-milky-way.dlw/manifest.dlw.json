@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Milky Way",
+  "universe": "GAL · The Milky Way (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Milky Way:GAL:1f5551⟧",
+  "carbon": "the-milky-way.carbon.tiff (TIFF)",
+  "silicon": "the-milky-way.silicon.png (PNG)",
+  "seal_sha256": "7beb1919e997789fe8c8e01a5c1dae7914498ada14b44fd02fe621d57b081a55",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Star as Pixel",
+  "universe": "GAL · The Star as Pixel (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The Star as Pixel:GAL:9ade77⟧",
+  "carbon": "the-star-as-pixel.carbon.tiff (TIFF)",
+  "silicon": "the-star-as-pixel.silicon.png (PNG)",
+  "seal_sha256": "8d5255d4a922e69ae6d5868173d93d182baf5223a2c14729f0105ed3f8025399",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

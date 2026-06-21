@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE GALAXY",
+  "universe": "GAL · THE GALAXY (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE GALAXY:GAL:c7d54f⟧",
+  "carbon": "the-galaxy.carbon.tiff (TIFF)",
+  "silicon": "the-galaxy.silicon.png (PNG)",
+  "seal_sha256": "b56026f5f888ecb47aff9d398f8241210dfeef2dad38f8cb9188240b52fff997",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
