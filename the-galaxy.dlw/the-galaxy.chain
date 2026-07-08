@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 580
+slug  : the-galaxy
+seal  : b56026f5f888ecb47aff9d398f8241210dfeef2dad38f8cb9188240b52fff997
+prev  : cf14759c1a8c5d5a8f3d494b088f2b636c7be8bb5a8eed56cb68763a7e464a94
+link  : 4ad7769e52d54e239329b1fdc11340f950b7bbdcec61889a0e6fcae84f7e7914
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
